@@ -1,0 +1,436 @@
+Frame 1: Best box coordinates: (248, 194, 266, 205), Distance: 13.29 m, Confidence: 0.86
+Frame 2: Best box coordinates: (100, 129, 129, 150), Distance: 7.76 m, Confidence: 0.85
+Frame 3: Best box coordinates: (94, 123, 125, 146), Distance: 7.97 m, Confidence: 0.86
+Frame 4: Best box coordinates: (89, 119, 120, 142), Distance: 7.76 m, Confidence: 0.84
+Frame 5: Best box coordinates: (85, 116, 115, 139), Distance: 7.97 m, Confidence: 0.89
+Frame 6: Best box coordinates: (80, 113, 112, 136), Distance: 7.92 m, Confidence: 0.84
+Frame 7: Best box coordinates: (76, 110, 106, 133), Distance: 7.57 m, Confidence: 0.85
+Frame 8: Best box coordinates: (71, 106, 103, 131), Distance: 7.43 m, Confidence: 0.87
+Frame 9: Best box coordinates: (65, 104, 97, 128), Distance: 7.25 m, Confidence: 0.86
+Frame 10: Best box coordinates: (58, 101, 92, 125), Distance: 7.57 m, Confidence: 0.85
+Frame 11: Best box coordinates: (51, 97, 87, 122), Distance: 7.08 m, Confidence: 0.87
+Frame 12: Best box coordinates: (44, 95, 80, 120), Distance: 6.95 m, Confidence: 0.84
+Frame 13: Best box coordinates: (40, 91, 76, 117), Distance: 6.91 m, Confidence: 0.84
+Frame 14: Best box coordinates: (38, 87, 72, 117), Distance: 6.99 m, Confidence: 0.85
+Frame 15: Best box coordinates: (54, 89, 88, 116), Distance: 6.87 m, Confidence: 0.86
+Frame 16: Best box coordinates: (81, 92, 114, 118), Distance: 6.95 m, Confidence: 0.85
+Frame 17: Best box coordinates: (114, 97, 144, 121), Distance: 7.08 m, Confidence: 0.87
+Frame 18: Best box coordinates: (142, 103, 171, 127), Distance: 7.71 m, Confidence: 0.84
+Frame 19: Best box coordinates: (165, 111, 192, 133), Distance: 7.92 m, Confidence: 0.84
+Frame 20: Best box coordinates: (178, 118, 203, 139), Distance: 7.97 m, Confidence: 0.87
+Frame 21: Best box coordinates: (184, 123, 211, 145), Distance: 8.08 m, Confidence: 0.87
+Frame 22: Best box coordinates: (184, 127, 213, 150), Distance: 8.48 m, Confidence: 0.86
+Frame 23: Best box coordinates: (181, 131, 209, 152), Distance: 8.30 m, Confidence: 0.86
+Frame 24: Best box coordinates: (177, 133, 204, 154), Distance: 8.30 m, Confidence: 0.85
+Frame 25: Best box coordinates: (171, 135, 200, 155), Distance: 7.87 m, Confidence: 0.85
+Frame 26: Best box coordinates: (167, 135, 193, 155), Distance: 8.30 m, Confidence: 0.86
+Frame 27: Best box coordinates: (162, 131, 191, 153), Distance: 7.71 m, Confidence: 0.87
+Frame 28: Best box coordinates: (160, 128, 187, 151), Distance: 7.76 m, Confidence: 0.84
+Frame 29: Best box coordinates: (158, 126, 185, 147), Distance: 7.71 m, Confidence: 0.85
+Frame 30: Best box coordinates: (163, 122, 190, 146), Distance: 7.43 m, Confidence: 0.87
+Frame 31: Best box coordinates: (173, 123, 202, 146), Distance: 7.16 m, Confidence: 0.86
+Frame 32: Best box coordinates: (187, 126, 215, 146), Distance: 7.38 m, Confidence: 0.86
+Frame 33: Best box coordinates: (194, 125, 221, 147), Distance: 8.86 m, Confidence: 0.85
+Frame 34: Best box coordinates: (193, 125, 219, 146), Distance: 7.97 m, Confidence: 0.86
+Frame 35: Best box coordinates: (189, 124, 216, 146), Distance: 7.25 m, Confidence: 0.86
+Frame 36: Best box coordinates: (184, 123, 212, 145), Distance: 8.03 m, Confidence: 0.85
+Frame 37: Best box coordinates: (179, 121, 207, 143), Distance: 7.57 m, Confidence: 0.85
+Frame 38: Best box coordinates: (174, 120, 201, 142), Distance: 8.19 m, Confidence: 0.83
+Frame 39: Best box coordinates: (168, 117, 195, 140), Distance: 7.25 m, Confidence: 0.86
+Frame 40: Best box coordinates: (165, 114, 195, 137), Distance: 7.25 m, Confidence: 0.86
+Frame 41: Best box coordinates: (161, 109, 191, 132), Distance: 7.62 m, Confidence: 0.86
+Frame 42: Best box coordinates: (158, 105, 186, 130), Distance: 7.62 m, Confidence: 0.86
+Frame 43: Best box coordinates: (156, 101, 185, 125), Distance: 7.38 m, Confidence: 0.86
+Frame 44: Best box coordinates: (155, 96, 183, 120), Distance: 7.57 m, Confidence: 0.84
+Frame 45: Best box coordinates: (151, 89, 182, 115), Distance: 7.38 m, Confidence: 0.86
+Frame 46: Best box coordinates: (149, 83, 178, 109), Distance: 6.99 m, Confidence: 0.84
+Frame 47: Best box coordinates: (147, 76, 177, 102), Distance: 7.29 m, Confidence: 0.85
+Frame 48: Best box coordinates: (143, 69, 175, 95), Distance: 6.91 m, Confidence: 0.84
+Frame 49: Best box coordinates: (139, 62, 169, 89), Distance: 6.83 m, Confidence: 0.87
+Frame 50: Best box coordinates: (132, 57, 163, 84), Distance: 6.72 m, Confidence: 0.87
+Frame 51: Best box coordinates: (126, 50, 159, 80), Distance: 6.61 m, Confidence: 0.85
+Frame 52: Best box coordinates: (122, 46, 153, 75), Distance: 6.61 m, Confidence: 0.87
+Frame 53: Best box coordinates: (117, 41, 149, 70), Distance: 6.29 m, Confidence: 0.87
+Frame 54: Best box coordinates: (110, 37, 142, 67), Distance: 6.43 m, Confidence: 0.87
+Frame 55: Best box coordinates: (100, 32, 135, 63), Distance: 6.33 m, Confidence: 0.87
+Frame 56: Best box coordinates: (93, 26, 127, 60), Distance: 5.95 m, Confidence: 0.86
+Frame 57: Best box coordinates: (87, 32, 122, 63), Distance: 6.26 m, Confidence: 0.84
+Frame 58: Best box coordinates: (81, 38, 117, 69), Distance: 6.07 m, Confidence: 0.85
+Frame 59: Best box coordinates: (75, 43, 110, 73), Distance: 6.01 m, Confidence: 0.85
+Frame 60: Best box coordinates: (65, 50, 104, 80), Distance: 6.26 m, Confidence: 0.84
+Frame 61: Best box coordinates: (61, 59, 97, 91), Distance: 6.26 m, Confidence: 0.85
+Frame 62: Best box coordinates: (71, 77, 106, 107), Distance: 6.53 m, Confidence: 0.85
+Frame 63: Best box coordinates: (85, 97, 121, 127), Distance: 6.16 m, Confidence: 0.85
+Frame 64: Best box coordinates: (100, 124, 134, 151), Distance: 6.10 m, Confidence: 0.84
+Frame 65: Best box coordinates: (105, 153, 138, 178), Distance: 6.26 m, Confidence: 0.88
+Frame 66: Best box coordinates: (100, 177, 136, 201), Distance: 6.01 m, Confidence: 0.86
+Frame 67: Best box coordinates: (95, 185, 134, 209), Distance: 5.78 m, Confidence: 0.86
+Frame 68: Best box coordinates: (96, 179, 134, 204), Distance: 5.95 m, Confidence: 0.87
+Frame 69: Best box coordinates: (95, 172, 133, 198), Distance: 6.10 m, Confidence: 0.86
+Frame 70: Best box coordinates: (101, 170, 137, 196), Distance: 6.33 m, Confidence: 0.86
+Frame 71: Best box coordinates: (109, 173, 141, 196), Distance: 6.68 m, Confidence: 0.87
+Frame 72: Best box coordinates: (114, 176, 145, 198), Distance: 7.25 m, Confidence: 0.86
+Frame 73: Best box coordinates: (118, 181, 147, 201), Distance: 7.29 m, Confidence: 0.85
+Frame 74: Best box coordinates: (118, 185, 150, 203), Distance: 7.97 m, Confidence: 0.85
+Frame 75: Best box coordinates: (113, 188, 142, 205), Distance: 8.79 m, Confidence: 0.86
+Frame 76: Best box coordinates: (104, 189, 134, 205), Distance: 8.86 m, Confidence: 0.84
+Frame 77: Best box coordinates: (96, 187, 125, 204), Distance: 8.86 m, Confidence: 0.86
+Frame 78: Best box coordinates: (85, 183, 116, 201), Distance: 8.60 m, Confidence: 0.85
+Frame 79: Best box coordinates: (82, 179, 109, 199), Distance: 8.66 m, Confidence: 0.86
+Frame 80: Best box coordinates: (83, 178, 114, 197), Distance: 8.30 m, Confidence: 0.82
+Frame 81: Best box coordinates: (89, 177, 120, 194), Distance: 8.30 m, Confidence: 0.84
+Frame 82: Best box coordinates: (92, 174, 121, 193), Distance: 8.36 m, Confidence: 0.84
+Frame 83: Best box coordinates: (99, 172, 127, 192), Distance: 8.25 m, Confidence: 0.85
+Frame 84: Best box coordinates: (114, 171, 143, 190), Distance: 8.73 m, Confidence: 0.84
+Frame 85: Best box coordinates: (132, 170, 159, 189), Distance: 8.42 m, Confidence: 0.85
+Frame 86: Best box coordinates: (151, 170, 176, 187), Distance: 8.42 m, Confidence: 0.83
+Frame 87: Best box coordinates: (167, 169, 190, 186), Distance: 8.86 m, Confidence: 0.84
+Frame 88: Best box coordinates: (178, 167, 207, 187), Distance: 9.27 m, Confidence: 0.82
+Frame 89: Best box coordinates: (195, 171, 220, 188), Distance: 10.49 m, Confidence: 0.83
+Frame 90: Best box coordinates: (209, 173, 232, 189), Distance: 9.27 m, Confidence: 0.80
+Frame 91: Best box coordinates: (221, 175, 244, 191), Distance: 9.96 m, Confidence: 0.86
+Frame 92: Best box coordinates: (232, 178, 255, 194), Distance: 9.96 m, Confidence: 0.85
+Frame 93: Best box coordinates: (241, 179, 264, 195), Distance: 10.49 m, Confidence: 0.85
+Frame 94: Best box coordinates: (248, 180, 272, 195), Distance: 10.05 m, Confidence: 0.84
+Frame 95: Best box coordinates: (256, 181, 278, 195), Distance: 10.58 m, Confidence: 0.86
+Frame 96: Best box coordinates: (262, 181, 285, 196), Distance: 10.49 m, Confidence: 0.85
+Frame 97: Best box coordinates: (270, 183, 291, 199), Distance: 10.49 m, Confidence: 0.86
+Frame 98: Best box coordinates: (276, 185, 298, 200), Distance: 10.97 m, Confidence: 0.86
+Frame 99: Best box coordinates: (282, 187, 304, 201), Distance: 11.07 m, Confidence: 0.85
+Frame 100: Best box coordinates: (287, 187, 309, 202), Distance: 10.97 m, Confidence: 0.86
+Frame 101: Best box coordinates: (293, 188, 315, 203), Distance: 10.97 m, Confidence: 0.89
+Frame 102: Best box coordinates: (298, 188, 321, 203), Distance: 11.84 m, Confidence: 0.85
+Frame 103: Best box coordinates: (304, 189, 325, 203), Distance: 11.84 m, Confidence: 0.85
+Frame 104: Best box coordinates: (310, 190, 332, 205), Distance: 12.20 m, Confidence: 0.87
+Frame 105: Best box coordinates: (313, 190, 337, 204), Distance: 11.61 m, Confidence: 0.84
+Frame 106: Best box coordinates: (316, 191, 338, 206), Distance: 11.28 m, Confidence: 0.84
+Frame 107: Best box coordinates: (318, 193, 340, 207), Distance: 12.20 m, Confidence: 0.86
+Frame 108: Best box coordinates: (319, 194, 340, 208), Distance: 12.72 m, Confidence: 0.86
+Frame 109: Best box coordinates: (319, 196, 340, 211), Distance: 12.20 m, Confidence: 0.88
+Frame 110: Best box coordinates: (315, 199, 337, 213), Distance: 14.07 m, Confidence: 0.84
+Frame 111: Best box coordinates: (315, 202, 335, 214), Distance: 13.29 m, Confidence: 0.85
+Frame 112: Best box coordinates: (316, 206, 336, 218), Distance: 13.29 m, Confidence: 0.86
+Frame 113: Best box coordinates: (318, 210, 338, 221), Distance: 14.07 m, Confidence: 0.82
+Frame 114: Best box coordinates: (320, 213, 339, 226), Distance: 13.29 m, Confidence: 0.86
+Frame 115: Best box coordinates: (321, 218, 340, 230), Distance: 14.23 m, Confidence: 0.84
+Frame 116: Best box coordinates: (321, 222, 339, 233), Distance: 14.95 m, Confidence: 0.85
+Frame 117: Best box coordinates: (321, 226, 339, 236), Distance: 15.94 m, Confidence: 0.83
+Frame 118: Best box coordinates: (320, 228, 339, 240), Distance: 17.33 m, Confidence: 0.85
+Frame 119: Best box coordinates: (320, 231, 337, 242), Distance: 15.53 m, Confidence: 0.84
+Frame 120: Best box coordinates: (319, 233, 336, 244), Distance: 18.40 m, Confidence: 0.83
+Frame 121: Best box coordinates: (318, 236, 335, 245), Distance: 16.84 m, Confidence: 0.84
+Frame 122: Best box coordinates: (316, 237, 333, 247), Distance: 22.99 m, Confidence: 0.85
+Frame 123: Best box coordinates: (312, 237, 330, 247), Distance: 18.98 m, Confidence: 0.83
+Frame 124: Best box coordinates: (307, 237, 326, 247), Distance: 18.40 m, Confidence: 0.84
+Frame 125: Best box coordinates: (305, 236, 321, 247), Distance: 18.40 m, Confidence: 0.83
+Frame 126: Best box coordinates: (302, 236, 320, 245), Distance: 18.12 m, Confidence: 0.85
+Frame 127: Best box coordinates: (300, 235, 317, 245), Distance: 22.56 m, Confidence: 0.83
+Frame 128: Best box coordinates: (298, 233, 315, 243), Distance: 15.94 m, Confidence: 0.86
+Frame 129: Best box coordinates: (296, 232, 313, 242), Distance: 16.38 m, Confidence: 0.83
+Frame 130: Best box coordinates: (295, 231, 313, 241), Distance: 15.53 m, Confidence: 0.82
+Frame 131: Best box coordinates: (294, 230, 312, 240), Distance: 18.12 m, Confidence: 0.85
+Frame 132: Best box coordinates: (293, 228, 311, 238), Distance: 14.95 m, Confidence: 0.87
+Frame 133: Best box coordinates: (293, 226, 310, 236), Distance: 15.53 m, Confidence: 0.83
+Frame 134: Best box coordinates: (290, 225, 309, 235), Distance: 16.84 m, Confidence: 0.81
+Frame 135: Best box coordinates: (290, 224, 309, 234), Distance: 14.58 m, Confidence: 0.81
+Frame 136: Best box coordinates: (289, 222, 307, 233), Distance: 15.94 m, Confidence: 0.83
+Frame 137: Best box coordinates: (288, 221, 306, 232), Distance: 14.76 m, Confidence: 0.85
+Frame 138: Best box coordinates: (287, 220, 306, 231), Distance: 14.23 m, Confidence: 0.85
+Frame 139: Best box coordinates: (286, 219, 305, 230), Distance: 14.95 m, Confidence: 0.84
+Frame 140: Best box coordinates: (285, 217, 305, 228), Distance: 14.58 m, Confidence: 0.84
+Frame 141: Best box coordinates: (286, 215, 305, 227), Distance: 14.58 m, Confidence: 0.83
+Frame 142: Best box coordinates: (285, 215, 304, 226), Distance: 14.58 m, Confidence: 0.84
+Frame 143: Best box coordinates: (285, 213, 304, 225), Distance: 14.58 m, Confidence: 0.85
+Frame 144: Best box coordinates: (283, 211, 303, 223), Distance: 14.76 m, Confidence: 0.85
+Frame 145: Best box coordinates: (283, 210, 302, 221), Distance: 14.41 m, Confidence: 0.84
+Frame 146: Best box coordinates: (282, 208, 302, 220), Distance: 14.76 m, Confidence: 0.82
+Frame 147: Best box coordinates: (281, 207, 301, 219), Distance: 14.58 m, Confidence: 0.84
+Frame 148: Best box coordinates: (281, 205, 299, 217), Distance: 14.76 m, Confidence: 0.85
+Frame 149: Best box coordinates: (279, 204, 299, 216), Distance: 13.74 m, Confidence: 0.86
+Frame 150: Best box coordinates: (278, 203, 297, 215), Distance: 13.29 m, Confidence: 0.87
+Frame 151: Best box coordinates: (277, 202, 295, 214), Distance: 13.59 m, Confidence: 0.84
+Frame 152: Best box coordinates: (275, 200, 293, 212), Distance: 14.58 m, Confidence: 0.85
+Frame 153: Best box coordinates: (274, 198, 292, 210), Distance: 14.58 m, Confidence: 0.84
+Frame 154: Best box coordinates: (271, 196, 291, 209), Distance: 13.14 m, Confidence: 0.84
+Frame 155: Best box coordinates: (270, 195, 289, 206), Distance: 12.72 m, Confidence: 0.84
+Frame 156: Best box coordinates: (269, 194, 289, 207), Distance: 13.14 m, Confidence: 0.83
+Frame 157: Best box coordinates: (267, 194, 287, 206), Distance: 13.29 m, Confidence: 0.83
+Frame 158: Best box coordinates: (266, 192, 285, 205), Distance: 12.20 m, Confidence: 0.83
+Frame 159: Best box coordinates: (264, 192, 283, 205), Distance: 12.33 m, Confidence: 0.84
+Frame 160: Best box coordinates: (264, 192, 283, 204), Distance: 13.29 m, Confidence: 0.83
+Frame 161: Best box coordinates: (263, 191, 283, 204), Distance: 13.29 m, Confidence: 0.84
+Frame 162: Best box coordinates: (264, 192, 282, 205), Distance: 12.86 m, Confidence: 0.81
+Frame 163: Best box coordinates: (262, 192, 285, 205), Distance: 11.50 m, Confidence: 0.80
+Frame 164: Best box coordinates: (263, 192, 284, 205), Distance: 13.14 m, Confidence: 0.84
+Frame 165: Best box coordinates: (264, 191, 285, 206), Distance: 12.33 m, Confidence: 0.82
+Frame 166: Best box coordinates: (264, 191, 286, 204), Distance: 10.97 m, Confidence: 0.82
+Frame 167: Best box coordinates: (265, 190, 286, 204), Distance: 11.96 m, Confidence: 0.82
+Frame 168: Best box coordinates: (265, 187, 287, 202), Distance: 11.28 m, Confidence: 0.85
+Frame 169: Best box coordinates: (266, 185, 288, 199), Distance: 11.17 m, Confidence: 0.82
+Frame 170: Best box coordinates: (266, 182, 287, 196), Distance: 10.87 m, Confidence: 0.84
+Frame 171: Best box coordinates: (266, 180, 288, 194), Distance: 10.87 m, Confidence: 0.87
+Frame 172: Best box coordinates: (266, 178, 287, 192), Distance: 10.68 m, Confidence: 0.84
+Frame 173: Best box coordinates: (266, 175, 288, 189), Distance: 11.50 m, Confidence: 0.83
+Frame 174: Best box coordinates: (266, 172, 288, 187), Distance: 10.87 m, Confidence: 0.86
+Frame 175: Best box coordinates: (264, 170, 287, 186), Distance: 10.68 m, Confidence: 0.84
+Frame 176: Best box coordinates: (264, 171, 287, 187), Distance: 10.68 m, Confidence: 0.85
+Frame 177: Best box coordinates: (262, 169, 285, 185), Distance: 10.22 m, Confidence: 0.85
+Frame 178: Best box coordinates: (263, 169, 287, 184), Distance: 10.40 m, Confidence: 0.82
+Frame 179: Best box coordinates: (264, 167, 286, 183), Distance: 10.40 m, Confidence: 0.83
+Frame 180: Best box coordinates: (263, 165, 287, 182), Distance: 10.13 m, Confidence: 0.84
+Frame 181: Best box coordinates: (263, 163, 285, 179), Distance: 9.49 m, Confidence: 0.88
+Frame 182: Best box coordinates: (261, 161, 284, 177), Distance: 9.72 m, Confidence: 0.86
+Frame 183: Best box coordinates: (260, 158, 285, 176), Distance: 9.57 m, Confidence: 0.85
+Frame 184: Best box coordinates: (258, 157, 283, 175), Distance: 9.49 m, Confidence: 0.86
+Frame 185: Best box coordinates: (257, 158, 279, 175), Distance: 9.57 m, Confidence: 0.84
+Frame 186: Best box coordinates: (255, 162, 279, 179), Distance: 9.72 m, Confidence: 0.85
+Frame 187: Best box coordinates: (253, 168, 277, 185), Distance: 9.27 m, Confidence: 0.85
+Frame 188: Best box coordinates: (251, 173, 276, 190), Distance: 9.42 m, Confidence: 0.87
+Frame 189: Best box coordinates: (249, 179, 274, 196), Distance: 9.27 m, Confidence: 0.85
+Frame 190: Best box coordinates: (247, 183, 272, 200), Distance: 9.06 m, Confidence: 0.82
+Frame 191: Best box coordinates: (246, 184, 271, 202), Distance: 8.86 m, Confidence: 0.85
+Frame 192: Best box coordinates: (246, 183, 272, 201), Distance: 8.86 m, Confidence: 0.84
+Frame 193: Best box coordinates: (248, 182, 275, 200), Distance: 8.48 m, Confidence: 0.86
+Frame 194: Best box coordinates: (250, 179, 278, 197), Distance: 8.25 m, Confidence: 0.87
+Frame 195: Best box coordinates: (253, 173, 281, 193), Distance: 8.25 m, Confidence: 0.86
+Frame 196: Best box coordinates: (256, 169, 284, 189), Distance: 7.97 m, Confidence: 0.85
+Frame 197: Best box coordinates: (258, 165, 285, 185), Distance: 7.97 m, Confidence: 0.87
+Frame 198: Best box coordinates: (259, 160, 287, 181), Distance: 8.13 m, Confidence: 0.85
+Frame 199: Best box coordinates: (258, 156, 289, 177), Distance: 7.57 m, Confidence: 0.85
+Frame 200: Best box coordinates: (260, 157, 289, 177), Distance: 7.76 m, Confidence: 0.85
+Frame 201: Best box coordinates: (259, 163, 287, 183), Distance: 7.87 m, Confidence: 0.86
+Frame 202: Best box coordinates: (257, 174, 287, 194), Distance: 7.25 m, Confidence: 0.86
+Frame 203: Best box coordinates: (256, 182, 285, 202), Distance: 7.29 m, Confidence: 0.86
+Frame 204: Best box coordinates: (254, 188, 284, 208), Distance: 7.25 m, Confidence: 0.88
+Frame 205: Best box coordinates: (251, 191, 283, 212), Distance: 6.76 m, Confidence: 0.85
+Frame 206: Best box coordinates: (250, 192, 282, 212), Distance: 6.76 m, Confidence: 0.85
+Frame 207: Best box coordinates: (251, 192, 283, 213), Distance: 6.53 m, Confidence: 0.87
+Frame 208: Best box coordinates: (250, 191, 284, 212), Distance: 6.53 m, Confidence: 0.85
+Frame 209: Best box coordinates: (250, 189, 284, 212), Distance: 6.57 m, Confidence: 0.87
+Frame 210: Best box coordinates: (250, 187, 285, 210), Distance: 5.98 m, Confidence: 0.88
+Frame 211: Best box coordinates: (250, 185, 286, 209), Distance: 5.98 m, Confidence: 0.88
+Frame 212: Best box coordinates: (251, 183, 287, 208), Distance: 5.75 m, Confidence: 0.87
+Frame 213: Best box coordinates: (251, 181, 287, 207), Distance: 5.56 m, Confidence: 0.88
+Frame 214: Best box coordinates: (251, 179, 291, 206), Distance: 5.18 m, Confidence: 0.87
+Frame 215: Best box coordinates: (252, 174, 292, 202), Distance: 5.11 m, Confidence: 0.87
+Frame 216: Best box coordinates: (253, 168, 294, 199), Distance: 4.98 m, Confidence: 0.89
+Frame 217: Best box coordinates: (255, 162, 298, 192), Distance: 4.90 m, Confidence: 0.87
+Frame 218: Best box coordinates: (256, 155, 301, 187), Distance: 4.82 m, Confidence: 0.88
+Frame 219: Best box coordinates: (259, 155, 303, 187), Distance: 4.46 m, Confidence: 0.88
+Frame 220: Best box coordinates: (259, 159, 308, 191), Distance: 4.36 m, Confidence: 0.87
+Frame 221: Best box coordinates: (263, 168, 311, 201), Distance: 4.17 m, Confidence: 0.89
+Frame 222: Best box coordinates: (264, 182, 311, 217), Distance: 4.04 m, Confidence: 0.88
+Frame 223: Best box coordinates: (262, 201, 311, 235), Distance: 3.93 m, Confidence: 0.89
+Frame 224: Best box coordinates: (261, 224, 313, 256), Distance: 3.95 m, Confidence: 0.89
+Frame 225: Best box coordinates: (258, 247, 313, 278), Distance: 3.76 m, Confidence: 0.87
+Frame 226: Best box coordinates: (258, 266, 312, 298), Distance: 3.62 m, Confidence: 0.89
+Frame 227: Best box coordinates: (254, 281, 311, 312), Distance: 3.42 m, Confidence: 0.85
+Frame 228: Best box coordinates: (251, 281, 309, 312), Distance: 3.36 m, Confidence: 0.88
+Frame 229: Best box coordinates: (250, 275, 308, 309), Distance: 3.29 m, Confidence: 0.88
+Frame 230: Best box coordinates: (247, 263, 308, 297), Distance: 3.32 m, Confidence: 0.88
+Frame 231: Best box coordinates: (247, 248, 309, 284), Distance: 3.33 m, Confidence: 0.88
+Frame 232: Best box coordinates: (245, 228, 305, 265), Distance: 3.28 m, Confidence: 0.87
+Frame 233: Best box coordinates: (244, 206, 302, 245), Distance: 3.29 m, Confidence: 0.90
+Frame 234: Best box coordinates: (241, 181, 299, 222), Distance: 3.28 m, Confidence: 0.90
+Frame 235: Best box coordinates: (238, 154, 296, 199), Distance: 3.26 m, Confidence: 0.88
+Frame 236: Best box coordinates: (236, 126, 294, 173), Distance: 3.25 m, Confidence: 0.89
+Frame 237: Best box coordinates: (233, 99, 291, 148), Distance: 3.22 m, Confidence: 0.89
+Frame 238: Best box coordinates: (231, 74, 291, 126), Distance: 3.22 m, Confidence: 0.88
+Frame 239: Best box coordinates: (226, 56, 286, 110), Distance: 3.19 m, Confidence: 0.88
+Frame 240: Best box coordinates: (223, 51, 282, 106), Distance: 3.10 m, Confidence: 0.89
+Frame 241: Best box coordinates: (215, 59, 276, 117), Distance: 2.99 m, Confidence: 0.89
+Frame 242: Best box coordinates: (206, 69, 271, 126), Distance: 2.91 m, Confidence: 0.90
+Frame 243: Best box coordinates: (203, 74, 266, 135), Distance: 2.78 m, Confidence: 0.90
+Frame 244: Best box coordinates: (210, 91, 276, 150), Distance: 2.79 m, Confidence: 0.90
+Frame 245: Best box coordinates: (231, 114, 295, 165), Distance: 2.87 m, Confidence: 0.91
+Frame 246: Best box coordinates: (239, 128, 303, 179), Distance: 2.91 m, Confidence: 0.89
+Frame 247: Best box coordinates: (238, 138, 302, 188), Distance: 2.90 m, Confidence: 0.91
+Frame 248: Best box coordinates: (233, 142, 298, 195), Distance: 2.86 m, Confidence: 0.90
+Frame 249: Best box coordinates: (227, 145, 291, 196), Distance: 2.79 m, Confidence: 0.89
+Frame 250: Best box coordinates: (219, 145, 284, 196), Distance: 2.77 m, Confidence: 0.89
+Frame 251: Best box coordinates: (212, 143, 277, 196), Distance: 2.76 m, Confidence: 0.91
+Frame 252: Best box coordinates: (204, 140, 270, 195), Distance: 2.73 m, Confidence: 0.90
+Frame 253: Best box coordinates: (195, 137, 263, 193), Distance: 2.63 m, Confidence: 0.90
+Frame 254: Best box coordinates: (188, 134, 256, 192), Distance: 2.51 m, Confidence: 0.91
+Frame 255: Best box coordinates: (183, 131, 254, 193), Distance: 2.47 m, Confidence: 0.90
+Frame 256: Best box coordinates: (198, 131, 271, 192), Distance: 2.41 m, Confidence: 0.90
+Frame 257: Best box coordinates: (218, 133, 292, 190), Distance: 2.47 m, Confidence: 0.91
+Frame 258: Best box coordinates: (227, 131, 299, 189), Distance: 2.50 m, Confidence: 0.92
+Frame 259: Best box coordinates: (223, 130, 296, 188), Distance: 2.50 m, Confidence: 0.93
+Frame 260: Best box coordinates: (215, 129, 287, 188), Distance: 2.50 m, Confidence: 0.92
+Frame 261: Best box coordinates: (207, 127, 279, 187), Distance: 2.48 m, Confidence: 0.91
+Frame 262: Best box coordinates: (201, 121, 272, 183), Distance: 2.43 m, Confidence: 0.92
+Frame 263: Best box coordinates: (197, 116, 269, 178), Distance: 2.44 m, Confidence: 0.91
+Frame 264: Best box coordinates: (194, 110, 267, 171), Distance: 2.40 m, Confidence: 0.91
+Frame 265: Best box coordinates: (188, 101, 263, 167), Distance: 2.37 m, Confidence: 0.92
+Frame 266: Best box coordinates: (180, 98, 255, 162), Distance: 2.33 m, Confidence: 0.90
+Frame 267: Best box coordinates: (167, 89, 244, 157), Distance: 2.28 m, Confidence: 0.92
+Frame 268: Best box coordinates: (156, 81, 232, 150), Distance: 2.26 m, Confidence: 0.93
+Frame 269: Best box coordinates: (144, 71, 222, 142), Distance: 2.21 m, Confidence: 0.91
+Frame 270: Best box coordinates: (132, 61, 212, 134), Distance: 2.15 m, Confidence: 0.90
+Frame 271: Best box coordinates: (116, 51, 199, 128), Distance: 2.12 m, Confidence: 0.92
+Frame 272: Best box coordinates: (102, 43, 185, 122), Distance: 2.03 m, Confidence: 0.92
+Frame 273: Best box coordinates: (85, 38, 173, 120), Distance: 2.03 m, Confidence: 0.92
+Frame 274: Best box coordinates: (66, 31, 159, 116), Distance: 1.94 m, Confidence: 0.91
+Frame 275: Best box coordinates: (48, 21, 144, 114), Distance: 1.89 m, Confidence: 0.90
+Frame 276: Best box coordinates: (68, 31, 159, 121), Distance: 1.96 m, Confidence: 0.92
+Frame 277: Best box coordinates: (149, 69, 228, 141), Distance: 2.27 m, Confidence: 0.90
+Frame 278: Best box coordinates: (205, 95, 276, 159), Distance: 2.52 m, Confidence: 0.91
+Frame 279: Best box coordinates: (242, 119, 308, 172), Distance: 2.81 m, Confidence: 0.90
+Frame 280: Best box coordinates: (267, 137, 327, 185), Distance: 3.20 m, Confidence: 0.90
+Frame 281: Best box coordinates: (282, 155, 338, 197), Distance: 3.52 m, Confidence: 0.89
+Frame 282: Best box coordinates: (291, 173, 341, 210), Distance: 4.03 m, Confidence: 0.89
+Frame 283: Best box coordinates: (293, 189, 338, 219), Distance: 4.60 m, Confidence: 0.88
+Frame 284: Best box coordinates: (293, 201, 335, 228), Distance: 5.11 m, Confidence: 0.88
+Frame 285: Best box coordinates: (291, 212, 330, 234), Distance: 5.41 m, Confidence: 0.89
+Frame 286: Best box coordinates: (284, 217, 320, 239), Distance: 6.01 m, Confidence: 0.86
+Frame 287: Best box coordinates: (277, 222, 313, 243), Distance: 6.39 m, Confidence: 0.88
+Frame 288: Best box coordinates: (275, 226, 306, 246), Distance: 7.25 m, Confidence: 0.86
+Frame 289: Best box coordinates: (274, 230, 304, 250), Distance: 7.52 m, Confidence: 0.84
+Frame 290: Best box coordinates: (274, 235, 303, 254), Distance: 7.76 m, Confidence: 0.86
+Frame 291: Best box coordinates: (277, 240, 304, 258), Distance: 8.86 m, Confidence: 0.83
+Frame 292: Best box coordinates: (280, 246, 307, 263), Distance: 9.96 m, Confidence: 0.84
+Frame 293: Best box coordinates: (284, 254, 307, 267), Distance: 10.68 m, Confidence: 0.87
+Frame 294: Best box coordinates: (285, 259, 307, 272), Distance: 12.72 m, Confidence: 0.83
+Frame 295: Best box coordinates: (285, 264, 304, 276), Distance: 14.95 m, Confidence: 0.83
+Frame 296: Best box coordinates: (282, 265, 300, 275), Distance: 16.61 m, Confidence: 0.79
+Frame 297: Best box coordinates: (278, 263, 295, 273), Distance: 21.35 m, Confidence: 0.82
+Frame 298: Best box coordinates: (274, 259, 291, 266), Distance: 20.62 m, Confidence: 0.76
+Frame 299: Best box coordinates: (274, 254, 289, 263), Distance: 20.62 m, Confidence: 0.80
+Frame 300: Best box coordinates: (276, 250, 290, 258), Distance: 21.74 m, Confidence: 0.83
+Frame 301: Best box coordinates: (279, 246, 292, 254), Distance: 24.91 m, Confidence: 0.80
+Frame 302: Best box coordinates: (282, 243, 295, 250), Distance: 39.86 m, Confidence: 0.67
+Frame 303: Best box coordinates: (286, 239, 299, 247), Distance: 35.17 m, Confidence: 0.81
+Frame 304: Best box coordinates: (290, 239, 302, 246), Distance: 33.21 m, Confidence: 0.75
+Frame 305: Best box coordinates: (291, 239, 303, 245), Distance: 65.54 m, Confidence: 0.77
+Frame 306: Best box coordinates: (292, 239, 303, 245), Distance: 65.54 m, Confidence: 0.73
+Frame 307: Best box coordinates: (292, 241, 303, 247), Distance: 36.23 m, Confidence: 0.44
+Frame 308: Best box coordinates: (290, 241, 302, 248), Distance: 51.99 m, Confidence: 0.71
+Frame 309: Best box coordinates: (287, 243, 298, 248), Distance: 0.00 m, Confidence: 0.58
+Frame 310: Best box coordinates: (283, 243, 294, 248), Distance: 51.99 m, Confidence: 0.51
+Frame 311: Best box coordinates: (279, 243, 291, 249), Distance: 65.54 m, Confidence: 0.62
+Frame 312: Best box coordinates: (277, 243, 288, 248), Distance: 30.66 m, Confidence: 0.63
+Frame 313: Best box coordinates: (276, 243, 287, 249), Distance: 33.21 m, Confidence: 0.62
+Frame 314: Best box coordinates: (278, 244, 293, 250), Distance: 65.54 m, Confidence: 0.63
+Frame 315: Best box coordinates: (283, 246, 294, 252), Distance: 65.54 m, Confidence: 0.45
+Frame 316: Best box coordinates: (289, 249, 300, 255), Distance: 65.54 m, Confidence: 0.73
+Frame 317: Best box coordinates: (292, 250, 304, 256), Distance: 65.54 m, Confidence: 0.55
+Frame 318: No detection
+Frame 319: No detection
+Frame 320: No detection
+Frame 321: No detection
+Frame 322: No detection
+Frame 323: Best box coordinates: (280, 258, 290, 262), Distance: 65.54 m, Confidence: 0.28
+Frame 324: No detection
+Frame 325: No detection
+Frame 326: No detection
+Frame 327: No detection
+Frame 328: No detection
+Frame 329: No detection
+Frame 330: No detection
+Frame 331: No detection
+Frame 332: No detection
+Frame 333: No detection
+Frame 334: No detection
+Frame 335: No detection
+Frame 336: No detection
+Frame 337: No detection
+Frame 338: No detection
+Frame 339: No detection
+Frame 340: No detection
+Frame 341: No detection
+Frame 342: No detection
+Frame 343: No detection
+Frame 344: No detection
+Frame 345: No detection
+Frame 346: No detection
+Frame 347: No detection
+Frame 348: No detection
+Frame 349: No detection
+Frame 350: No detection
+Frame 351: No detection
+Frame 352: No detection
+Frame 353: No detection
+Frame 354: No detection
+Frame 355: No detection
+Frame 356: No detection
+Frame 357: No detection
+Frame 358: No detection
+Frame 359: No detection
+Frame 360: No detection
+Frame 361: No detection
+Frame 362: No detection
+Frame 363: No detection
+Frame 364: No detection
+Frame 365: No detection
+Frame 366: No detection
+Frame 367: No detection
+Frame 368: No detection
+Frame 369: No detection
+Frame 370: No detection
+Frame 371: No detection
+Frame 372: No detection
+Frame 373: No detection
+Frame 374: No detection
+Frame 375: No detection
+Frame 376: No detection
+Frame 377: No detection
+Frame 378: No detection
+Frame 379: No detection
+Frame 380: No detection
+Frame 381: No detection
+Frame 382: No detection
+Frame 383: No detection
+Frame 384: No detection
+Frame 385: No detection
+Frame 386: No detection
+Frame 387: No detection
+Frame 388: No detection
+Frame 389: No detection
+Frame 390: No detection
+Frame 391: No detection
+Frame 392: No detection
+Frame 393: No detection
+Frame 394: No detection
+Frame 395: No detection
+Frame 396: No detection
+Frame 397: No detection
+Frame 398: No detection
+Frame 399: No detection
+Frame 400: No detection
+Frame 401: No detection
+Frame 402: No detection
+Frame 403: No detection
+Frame 404: No detection
+Frame 405: No detection
+Frame 406: No detection
+Frame 407: No detection
+Frame 408: No detection
+Frame 409: No detection
+Frame 410: No detection
+Frame 411: Best box coordinates: (348, 258, 360, 262), Distance: 54.35 m, Confidence: 0.37
+Frame 412: Best box coordinates: (347, 255, 359, 261), Distance: 0.00 m, Confidence: 0.32
+Frame 413: No detection
+Frame 414: Best box coordinates: (348, 255, 362, 262), Distance: 65.54 m, Confidence: 0.66
+Frame 415: Best box coordinates: (350, 260, 363, 266), Distance: 65.54 m, Confidence: 0.69
+Frame 416: Best box coordinates: (351, 265, 363, 270), Distance: 51.99 m, Confidence: 0.64
+Frame 417: No detection
+Frame 418: Best box coordinates: (354, 273, 369, 279), Distance: 51.99 m, Confidence: 0.63
+Frame 419: No detection
+Frame 420: Best box coordinates: (355, 278, 370, 284), Distance: 44.28 m, Confidence: 0.49
+Frame 421: Best box coordinates: (356, 279, 371, 286), Distance: 32.32 m, Confidence: 0.68
+Frame 422: No detection
+Frame 423: Best box coordinates: (357, 277, 374, 284), Distance: 22.99 m, Confidence: 0.43
+Frame 424: Best box coordinates: (356, 272, 376, 281), Distance: 24.40 m, Confidence: 0.77
+Frame 425: Best box coordinates: (355, 266, 374, 274), Distance: 0.00 m, Confidence: 0.76
+Frame 426: Best box coordinates: (357, 255, 376, 264), Distance: 16.84 m, Confidence: 0.81
+Frame 427: Best box coordinates: (357, 248, 378, 257), Distance: 16.16 m, Confidence: 0.81
+Frame 428: Best box coordinates: (362, 241, 381, 250), Distance: 15.14 m, Confidence: 0.81
+Frame 429: Best box coordinates: (361, 234, 384, 245), Distance: 14.07 m, Confidence: 0.76
+Frame 430: Best box coordinates: (359, 227, 378, 239), Distance: 12.59 m, Confidence: 0.63
+Frame 431: Best box coordinates: (358, 220, 379, 230), Distance: 12.20 m, Confidence: 0.81
+Frame 432: Best box coordinates: (357, 212, 381, 225), Distance: 11.39 m, Confidence: 0.78
+Frame 433: Best box coordinates: (356, 205, 382, 218), Distance: 10.49 m, Confidence: 0.80
+Frame 434: Best box coordinates: (355, 196, 382, 211), Distance: 10.05 m, Confidence: 0.84
+Frame 435: Best box coordinates: (355, 185, 384, 203), Distance: 8.99 m, Confidence: 0.82
+                                   
